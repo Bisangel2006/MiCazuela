@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi cazuela</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+    <header class="py-4 text-center bg-white border-bottom">
+        <h3 class="text-muted h6">¿No sabes qué cocinar hoy?</h3>
+        <h1 class="display-5 fw-bold">Bienvenidos a mi cazuela</h1>
+    </header>
+
+    <main class="flex-shrink-0">
+        <section class="container my-5 text-center">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h2 class="fw-bold mb-4">¡Basta de Pensar Qué Cocinar Cada Día!</h2>
+                    <p class="lead mb-4">
+                        Con <strong>Micazuela</strong>, di adiós al estrés de decidir tus comidas. 
+                        Nuestra app te da ideas al instante para el desayuno, almuerzo o cena de hoy.
+                    </p>
+                    <p class="mb-4">
+                        ¿Indeciso? Elige tus opciones favoritas y <strong>"chocolatea"</strong>: la app seleccionará una al azar por ti.
+                    </p>
+                    <p class="mb-4">
+                        Además, planifica toda tu semana sin esfuerzo. Organiza cada comida usando nuestras sugerencias 
+                        o tus propios platos, y guarda tu menú para no preocuparte más.
+                    </p>
+                    <p class="mb-4">
+                        <strong>Micazuela</strong> te libera para disfrutar más, simplificando tu vida con soluciones deliciosas.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="container my-5 py-4 text-center">
+            <h2 class="fw-bold">¿Cómo funciona?</h2>
+            <p class="h4 text-primary mb-3">MiOllita</p>
+            <p class="lead mb-5">En 3 sencillos pasos, tienes ideas de recetas al instante</p>
+            
+            <div class="row g-4 justify-content-center">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm"> <h5 class="card-header bg-primary text-white">Paso 1</h5>
+                        <div class="card-body">
+                            <h5 class="card-title">Elige el momento</h5>
+                            <p class="card-text">Selecciona si buscas desayuno, almuerzo o cena para empezar.</p>
+                            <a href="#" class="btn btn-primary"><i class="bi bi-search me-2"></i>Explorar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <h5 class="card-header bg-primary text-white">Paso 2</h5>
+                        <div class="card-body">
+                            <h5 class="card-title">"Chocolatea"</h5>
+                            <p class="card-text">Deja que la app elija por ti una de tus opciones favoritas al azar.</p>
+                            <a href="#" class="btn btn-primary"><i class="bi bi-dice-5 me-2"></i>Probar suerte</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <h5 class="card-header bg-primary text-white">Paso 3</h5>
+                        <div class="card-body">
+                            <h5 class="card-title">¡A disfrutar!</h5>
+                            <p class="card-text">Sigue la sugerencia y olvídate de las preocupaciones de planificación.</p>
+                            <a href="#" class="btn btn-primary"><i class="bi bi-calendar-check me-2"></i>Ver menú</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container my-5 py-4">
+    <h2 class="fw-bold text-center mb-5">Preguntas Frecuentes</h2>
+    
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="accordion" id="accordionFAQ">
+                
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            ¿Es MiOllita gratuita?
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
+                        <div class="accordion-body">
+                            ¡Sí! MiOllita ofrece todas sus funciones de sugerencias y planificación de forma gratuita para ayudarte a cocinar sin estrés.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            ¿Puedo agregar mis propias recetas?
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                        <div class="accordion-body">
+                            ¡Por supuesto! Puedes añadir tus platos favoritos al sistema para que también aparezcan cuando decidas "chocolatear" tu menú.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            ¿Cómo funciona el botón "Chocolatear"?
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                        <div class="accordion-body">
+                            Es nuestra función estrella. Si no sabes qué elegir, el sistema toma tus opciones favoritas y selecciona una al azar para ahorrarte la fatiga de decidir.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+    </main>
+
+    <footer class="footer mt-auto py-3 border-top bg-light">
+        <div class="container d-flex flex-wrap justify-content-between align-items-center">
+            <p class="col-md-4 mb-0 text-body-secondary">© 2024 Compañía, Inc</p>
+
+            <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                <i class="bi bi-bootstrap" style="font-size: 2rem;"></i>
+            </a>
+
+            <ul class="nav col-md-4 justify-content-end">
+                <li class="nav-item"><a href="politicas.html" class="nav-link px-2 text-body-secondary">Política de Privacidad</a></li>
+            </ul>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+Política de Privacidad
+Fecha de entrada en vigor: 5 de noviembre de 2025
+
+1.Introducción
+Esta Política de Privacidad describe cómo la app MiOllita recopila, utiliza, divulga y protege su información personal cuando utiliza nuestra aplicación móvil de recetas y planificación de menús diarios y semanales.
+
+Al utilizar la Aplicación, usted acepta las prácticas de recopilación y uso de información descritas en esta política. Si no está de acuerdo con los términos de esta política, no utilice la Aplicación.
+
+2. Información que Recopilamos
+Podemos recopilar dos tipos principales de información: la información que usted nos proporciona directamente y la información que se recopila automáticamente mientras utiliza la Aplicación.
+
+A. Información Proporcionada Directamente por Usted
+Información de la Cuenta: Si crea una cuenta para guardar sus menús y preferencias, recopilamos su dirección de correo electrónico y una contraseña cifrada.
+Preferencias y Contenido Personalizado: Recopilamos información sobre sus preferencias dietéticas (ej. vegetariano, sin gluten), ingredientes favoritos/rechazados, y el contenido que crea, como los menús semanales personalizados y las recetas propias que decide guardar en la Aplicación.
+Comunicaciones: Información que nos proporciona al contactar con soporte técnico o enviarnos comentarios y sugerencias.
+B. Información Recopilada Automáticamente
+Datos de Uso: Recopilamos información sobre cómo interactúa con la Aplicación, incluyendo las recetas que visualiza, las funciones que utiliza (como "Chocolatea"), la frecuencia de uso, y el tiempo que pasa en cada sección.
+Información Técnica y del Dispositivo: Recopilamos información sobre el dispositivo que utiliza para acceder a la Aplicación, como el modelo de hardware, sistema operativo, identificadores únicos del dispositivo y datos de la red móvil.
+Datos de Análisis (Analytics): Utilizamos herramientas de análisis de terceros para ayudarnos a medir el tráfico y las tendencias de uso de la Aplicación, lo que nos permite mejorar la experiencia del usuario.
+
+3. Uso de la Información
+Utilizamos la información recopilada para los siguientes propósitos:
+
+Para Proporcionar y Personalizar el Servicio: Para operar, mantener y entregar las funcionalidades de la Aplicación, incluyendo:
+Generar sugerencias de recetas diarias.
+Guardar y gestionar su menú semanal y sus recetas personalizadas.
+Personalizar las sugerencias de recetas basadas en sus preferencias guardadas.
+Para Mejorar la Aplicación: Analizar el uso y el rendimiento de la Aplicación para diagnosticar problemas técnicos, desarrollar nuevas funciones y mejorar la experiencia del usuario.
+Para Comunicarnos: Responder a sus consultas, enviarle notificaciones relacionadas con el servicio o informarle sobre actualizaciones de la Aplicación o de esta política.
+Para Comunicarnos: Responder a sus consultas, enviarle notificaciones relacionadas con el servicio o informarle sobre actualizaciones de la Aplicación o de esta política.
+Seguridad: Monitorear y prevenir actividades fraudulentas o abusivas en la Aplicación.
+
+4. Compartición y Divulgación de Información
+No vendemos, alquilamos ni cedemos su información personal a terceros. Solo compartiremos su información en las siguientes circunstancias:
+
+Proveedores de Servicios: Podemos compartir su información con terceros (empresas de hosting, servicios de análisis, marketing) que realizan servicios en nuestro nombre. Estos proveedores están obligados contractualmente a mantener la confidencialidad de su información.
+Cumplimiento de la Ley: Divulgaremos su información si la ley lo exige o si creemos de buena fe que dicha acción es necesaria para cumplir con una obligación legal o proteger nuestros derechos, propiedad o seguridad.
+Transferencia de Negocios: En caso de fusión, adquisición, o venta de activos, su información personal podría ser transferida al nuevo propietario de la Aplicación.
+
+5. Retención de Datos
+Retendremos su Información Personal solo durante el tiempo necesario para los fines establecidos en esta Política de Privacidad. Esto incluye el tiempo que su cuenta permanezca activa para que pueda acceder a sus menús y preferencias guardadas. Si solicita la eliminación de su cuenta, procederemos a eliminar o anonimizar su información en un plazo razonable, a menos que debamos retenerla por motivos legales.
+
+6. Seguridad de los Datos
+La seguridad de sus datos es importante para nosotros. Implementamos medidas de seguridad físicas, técnicas y administrativas diseñadas para proteger su Información Personal contra el acceso, uso o divulgación no autorizados. Sin embargo, recuerde que ningún método de transmisión por Internet o almacenamiento electrónico es 100% seguro.
+
+7. Privacidad de los Niños
+Nuestra Aplicación no está dirigida a personas menores de 13 años. No recopilamos a sabiendas información de identificación personal de niños. Si usted es padre o tutor y sabe que su hijo nos ha proporcionado Información Personal, contáctenos para que podamos tomar medidas para eliminar dicha información de nuestros servidores.
+
+8. Sus Derechos de Privacidad
+Usted tiene derecho a acceder, rectificar o solicitar la eliminación de la información personal que tenemos sobre usted. Si tiene una cuenta, puede ejercer muchos de estos derechos a través de la configuración de la propia Aplicación. Para cualquier otra solicitud o si desea ejercer su derecho a la portabilidad de datos, contáctenos a través de la información de contacto proporcionada a continuación.
+
+9. Cambios a Esta Política de Privacidad
+Podemos actualizar nuestra Política de Privacidad periódicamente. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página y, si los cambios son significativos, a través de una notificación dentro de la Aplicación.
+
+10. Contáctenos
+Si tiene alguna pregunta sobre esta Política de Privacidad, contáctenos en: info@miollita.com
