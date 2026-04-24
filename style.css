@@ -1,0 +1,137 @@
+/* ==========================================================================
+   CONFIGURACIÓN GLOBAL Y HEADER
+   ========================================================================== */
+#mi-header {
+    background-color: #11b2fd !important;
+    min-height: 120px;
+    display: flex;
+    align-items: center; /* Centrado vertical */
+}
+
+/* Tipografía del Header */
+#mi-header h1 {
+    color: white !important;
+    line-height: 1.2;
+}
+
+#mi-header h3 {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Ajuste del Logo Responsivo */
+.logo-header-grande {
+    width: 150px; /* Tamaño máximo en PC */
+    height: auto;
+    max-height: 120px;
+    object-fit: contain;
+    transition: all 0.3s ease;
+}
+
+/* AJUSTES PARA MÓVILES (Celulares) */
+@media (max-width: 768px) {
+    #mi-header {
+        padding: 25px 0;
+    }
+    
+    .logo-header-grande {
+        width: 100px; /* Se reduce para no saturar */
+        margin-bottom: 15px;
+    }
+
+    /* Forzamos que en móvil el logo quede arriba y el texto abajo */
+    #mi-header .row {
+        flex-direction: column;
+    }
+    
+    #mi-header .col-4, 
+    #mi-header .col-8 {
+        width: 100%;
+        text-align: center !important;
+    }
+}
+/* ==========================================================================
+   SECCIÓN "CÓMO FUNCIONA" (CARDS Y RESPONSIVIDAD)
+   ========================================================================== */
+
+/* Hace que la card se ajuste al contenido (imagen) */
+.card-ajustada {
+    width: fit-content;
+    border: none !important;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card-ajustada:hover {
+    transform: translateY(-5px);
+}
+
+/* Estilo de la imagen con el borde de 50px pedido */
+.img-pasos {
+    border-radius: 50px;
+    display: block;
+    max-width: 250px; /* Tamaño máximo en PC */
+    height: auto;
+    margin: 0 auto;
+}
+
+/* Ajuste para que en móviles la imagen sea fluida */
+@media (max-width: 768px) {
+    .img-pasos {
+        max-width: 100%;
+        width: 200px; /* Tamaño un poco más pequeño en móvil para que no sature */
+    }
+}
+
+/* ==========================================================================
+   FOOTER (AZUL Y TEXTO BLANCO)
+   ========================================================================== */
+.footer-azul {
+    background-color: #11b2fd !important;
+    border-top: none !important;
+}
+
+/* Texto de copyright */
+.footer-azul p {
+    color: white !important;
+    margin-bottom: 0;
+}
+
+/* Logo adaptable en el centro */
+.logo-como-icono {
+    height: 3.5rem; /* Un poco más grande como pediste */
+    width: auto;
+    display: block;
+    object-fit: contain;
+    /* filter: brightness(0) invert(1); <--- Descomenta si lo quieres blanco total */
+}
+
+/* Enlaces del Footer */
+.enlace-footer {
+    color: rgba(255, 255, 255, 0.8) !important;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.enlace-footer:hover {
+    color: white !important;
+    text-decoration: underline;
+}
+
+/* Ajuste para que en móviles no se amontone */
+@media (max-width: 768px) {
+    .footer-azul .container {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+}
+
+/* ==========================================================================
+   UTILIDADES COMPLEMENTARIAS
+   ========================================================================== */
+.text-primary {
+    color: #11b2fd !important;
+}
+
+.btn-primary {
+    background-color: #11b2fd !important;
+    border-color: #11b2fd !important;
+}
